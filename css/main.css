@@ -1,0 +1,17 @@
+body, html, main {
+  background: black;
+  color: white;
+  overflow: hidden;
+}
+
+.stuff {
+  padding: 10px;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+#score {
+  margin-bottom: 20px;
+}
